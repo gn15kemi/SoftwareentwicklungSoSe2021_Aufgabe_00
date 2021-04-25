@@ -1,3 +1,5 @@
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/ComputerScienceLecturesTUBAF/SoftwareentwicklungSoSe2021_Aufgabe_00/blob/main/README.md)
+
 # Softwareentwicklung SoSe2021 - Aufgabe 00
 
 In dieser Übung sollen Sie sich die verschiedenen Möglichkeiten der Erstellung von C# Programmen erarbeiten und diese evaluieren. Dabei sollen Sie verschiedene Editorkonzepte ausprobieren und im Hinblick auf Ihre Anforderungen testen. Verwenden Sie die von Ihnen ausgewählte Toolchain zum Lösen der gestellten Aufgaben.
