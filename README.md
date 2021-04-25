@@ -56,7 +56,11 @@ und `NumberStyles.AllowDecimalPoint` oder `NumberStyles.Any` als `style`.
 
 ## 3. Fehler
 
-Im Repository finden Sie die Datei `Temperatur.cs` , die ein fehlerhaftes Programm zur Umrechnung der Temperatur von Grad Celsius in Fahrenheit unter Verwendung der Formel: $5 \cdot (Fahrenheit − 32) = 9 \cdot Celsius$ beinhaltet. Korrigieren Sie das Programm und führen Sie es aus.
+Im Repository finden Sie die Datei `Temperatur.cs` , die ein fehlerhaftes Programm zur Umrechnung der Temperatur von Grad Celsius in Fahrenheit unter Verwendung der Formel:
+
+<img src="https://render.githubusercontent.com/render/math?math=5 \cdot (T_{Fahrenheit} - 32) = 9 \cdot T_{Celsius}">
+
+beinhaltet. Korrigieren Sie das Programm und führen Sie es aus.
 
 ## 4. Ausdrücke
 
