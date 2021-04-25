@@ -1,3 +1,18 @@
+<!--
+author:   Galina Rudolf, Sebastian Zug
+email:    sebastian.zug@informatik.tu-freiberg.de
+
+version:  0.0.1
+language: de
+narrator: Deutsch Female
+
+import:  https://raw.githubusercontent.com/liascript-templates/plantUML/master/README.md
+         https://github.com/LiaTemplates/AVR8js/main/README.md
+         https://github.com/liascript/CodeRunner
+
+icon: https://upload.wikimedia.org/wikipedia/commons/d/de/Logo_TU_Bergakademie_Freiberg.svg
+-->
+
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/ComputerScienceLecturesTUBAF/SoftwareentwicklungSoSe2021_Aufgabe_00/blob/main/README.md)
 
 # Softwareentwicklung SoSe2021 - Aufgabe 00
