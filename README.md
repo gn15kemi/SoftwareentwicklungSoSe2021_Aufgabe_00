@@ -1,20 +1,3 @@
-<!--
-author:   Galina Rudolf, Sebastian Zug
-email:    sebastian.zug@informatik.tu-freiberg.de
-
-version:  0.0.0
-language: de
-narrator: Deutsch Female
-
-import:  https://raw.githubusercontent.com/liascript-templates/plantUML/master/README.md
-         https://github.com/LiaTemplates/AVR8js/main/README.md
-         https://github.com/liascript/CodeRunner
-
-icon: https://upload.wikimedia.org/wikipedia/commons/d/de/Logo_TU_Bergakademie_Freiberg.svg
--->
-
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/ComputerScienceLecturesTUBAF/SoftwareentwicklungSoSe2021_Aufgabe_00/blob/main/README.md)
-
 # Softwareentwicklung SoSe2021 - Aufgabe 00
 
 In dieser Übung sollen Sie sich die verschiedenen Möglichkeiten der Erstellung von C# Programmen erarbeiten und diese evaluieren. Dabei sollen Sie verschiedene Editorkonzepte ausprobieren und im Hinblick auf Ihre Anforderungen testen. Verwenden Sie die von Ihnen ausgewählte Toolchain zum Lösen der gestellten Aufgaben.
@@ -88,13 +71,13 @@ double y = 4.0;
 
 Definieren Sie des Weiteren noch fehlende Variablen, berechnen Sie die Ausdrücke und geben Sie die Ergebnisse aus.
 
-$d=\frac{a}{b}$
+<img src="https://render.githubusercontent.com/render/math?math=d=\frac{a}{b}">
 
-$f=\frac{a+b}{c-y}-\frac{a}{b}$
+<img src="https://render.githubusercontent.com/render/math?math=f=\frac{a+b}{c-y}-\frac{a}{b}">
 
-$f=\frac{-b+\sqrt{b^2-4ac}}{2a}$
+<img src="https://render.githubusercontent.com/render/math?math=f=\frac{-b+\sqrt{b^2-4ac}}{2a}">
 
-$A = \pi r^2$
+<img src="https://render.githubusercontent.com/render/math?math=A = \pi r^2">
 
 **b) Boolsche und Vergleichsoperatoren**
 
