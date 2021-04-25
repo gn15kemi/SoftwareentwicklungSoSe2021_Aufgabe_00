@@ -27,12 +27,14 @@ Testen Sie mindestens zwei Konzepte. Legen Sie dazu mit den gewählten Tools `He
 ## 2. Datentypen, Ein- und Ausgabe, formatierte Ausgabe
 
 Zum auf einem fernen Planeten lebenden Energie-Wesen sollen folgende Daten ein und ausgegeben werden:
+
 + Bezeichnung (Zeichenkette)
 + Registriernummer (eine 5-stellige ganze Zahl),
 + Kategorie (Buchstabe A, B oder C),
 + Leuchtkraft (reelle Zahl mit 2 Nachkommastellen)
 
 Entwickeln Sie Ihr Programm schrittweise:
+
 1. Initialisieren Sie die Variablen mit geeigneten Konstanten ...
 2. Lesen Sie die Werte von der Kommandozeile ein ...
 3. Geben Sie die Werte von Tastatur ein und anschließend wieder aus ...
@@ -82,6 +84,7 @@ $A = \pi r^2$
 **b) Boolsche und Vergleichsoperatoren**
 
 Überprüfen Sie in einem Programm
+
 + ob der eingegebene Wert für x im Bereich x1...x2 liegt,
 + ob der durch x und y definierte Punkt in einem Rechteck mit den Eckpunkten x1, y1 und x2, y2 liegt,
 + ob zwei Punkte die gleichen Koordinaten haben,
@@ -98,10 +101,11 @@ int x = 0b0001_0001, y=0b1000_1000, z=0b1111;
 ```
 
 Berechnen Sie folgende Ausdrücke und geben Sie die Ergebnisse als Hexadezimalzahlen aus. Überlegen Sie wie diese Ergebnisse zustande kommen:
-+ x & y & z,
-+ (x | y) & z,
-+ ~(x ^ y) und
-+ ~(x ^ y) & byte.MaxValue
+
++ `x & y & z`,
++ `(x | y) & z`,
++ `~(x ^ y)` und
++ `~(x ^ y) & byte.MaxValue`
 
 Mit welchem Operator kann aus dem Wert x der Wert y berechnet werden? Überprüfen Sie Ihre Vermutung.
 
