@@ -2,6 +2,12 @@
 
 In dieser Übung sollen Sie sich die verschiedenen Möglichkeiten der Erstellung von C# Programmen erarbeiten und diese evaluieren. Dabei sollen Sie verschiedene Editorkonzepte ausprobieren und im Hinblick auf Ihre Anforderungen testen. Verwenden Sie die von Ihnen ausgewählte Toolchain zum Lösen der gestellten Aufgaben.
 
+## Bearbeitungszeit
+
+SWE: 3. Mai - 7. Mai 2021 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
+
+Einführung in SWE: 3. Mai -14. Mai 2021 (KGB, BENG, VTC, MB)
+
 ## 1. Wahl der Werkzeuge
 
 Nehmen wir an, Sie sind der Technologie-Scout in einem Unternehmen. Nachdem Microsoft seine Strategie bezüglich der Lizenzen von .NET geändert hat, wollen Sie sich einen Überblick verschaffen und testen, welche Tool-Chain für die Anforderungen in Ihrem Unternehmen am geeignetsten ist.
