@@ -35,7 +35,7 @@ Entwickeln Sie Ihr Programm schrittweise:
 
 1. Initialisieren Sie die Variablen mit geeigneten Konstanten ...
 2. Lesen Sie die Werte von der Kommandozeile ein ...
-3. Geben Sie die Werte von Tastatur ein und anschließend wieder aus ...
+3. Geben Sie die Werte von Tastatur ein ...
 ... und geben Sie diese anschließend aus.
 
 Verwenden Sie die Datentypen `string`, `int`, `char` und `double`, für die Ausgabe die Methode `Console.WriteLine()` und für die Eingabe die Methode `Console.ReadLine()`. Bei der Ausgabe ist, falls nötig, die `ToString`-Methode zu verwenden, z.B. im Falle einer Gleitkommazahl:
@@ -52,7 +52,7 @@ bool bwert = double.TryParse(string, styles, culture_specification, out wert);
 Verwenden Sie als `culture_specification` `CultureInfo.InvariantCulture`
 und `NumberStyles.AllowDecimalPoint` oder `NumberStyles.Any` als `style`.
 
-> Erfahrenere Programmierer können die Aufgabe gern objektorientiert lösen!
+> Erfahrenere Programmierer können für die Kategorie gern `enum`-Typ verwenden und bei der Konvertierung mit `Convert` und `Parse` die Ausnahmen(Exception) behandeln!
 
 ## 3. Fehler
 
