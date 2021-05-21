@@ -15,7 +15,7 @@ namespace exercise1_2_
             double leuchtkraft = 22.22D;
 
             //2. Lesen Sie die Werte von der Kommandozeile ein.
-           /* Console.WriteLiffne(bezeichnung);
+           /* Console.WriteLine(bezeichnung);
             Console.WriteLine(registrierNummer);
             Console.WriteLine(kategorie);
             Console.WriteLine(leuchtkraft);  */
